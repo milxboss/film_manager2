@@ -1,0 +1,13 @@
+div.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+
+    h1{
+        font-weight: 700;
+        color: rgba(225, 207, 7, 0.8);
+        text-shadow: 2px 2px 2px #000;
+    }
+}
